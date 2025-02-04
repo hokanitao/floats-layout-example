@@ -81,13 +81,22 @@ header {
   margin-bottom: 170px;
 }
 
-.firstimg {
-  width: 30%;
+.thirdblock {
+  padding: 30px;
+}
+
+.thirdimg {
+  width: 50%;
   float: left;
 }
 
-.firsttxt {
-  padding: 30px;
+.fourthimg {
+  width: 50%;
+  float: right;
+}
+
+#thirdtxt {
+  clear: both;
 }
 
 footer {

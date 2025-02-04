@@ -81,12 +81,12 @@ header {
   margin-bottom: 170px;
 }
 
-.firstimg {
+.secimg {
   width: 30%;
-  float: left;
+  float: right;
 }
 
-.firsttxt {
+.sectxt {
   padding: 30px;
 }
 
